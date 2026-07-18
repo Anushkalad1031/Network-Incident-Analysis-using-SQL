@@ -1,0 +1,328 @@
+device_id,device_name,device_type,vendor,location_id
+1,ROU-01-0001,Router,Cisco,1
+2,FIR-01-0002,Firewall,Palo Alto,1
+3,SWI-01-0003,Switch,Cisco,1
+4,ROU-01-0004,Router,Cisco,1
+5,SER-01-0005,Server,HP,1
+6,ROU-01-0006,Router,Cisco,1
+7,ROU-01-0007,Router,Cisco,1
+8,SWI-01-0008,Switch,Cisco,1
+9,SER-01-0009,Server,Dell,1
+10,SER-01-0010,Server,HP,1
+11,SWI-01-0011,Switch,HP Aruba,1
+12,SER-01-0012,Server,HP,1
+13,ROU-01-0013,Router,Cisco,1
+14,ACC-01-0014,Access Point,HP Aruba,1
+15,FIR-01-0015,Firewall,Palo Alto,1
+16,SWI-01-0016,Switch,HP Aruba,1
+17,ROU-01-0017,Router,Cisco,1
+18,ACC-01-0018,Access Point,Cisco,1
+19,FIR-01-0019,Firewall,Fortinet,1
+20,SER-01-0020,Server,HP,1
+21,ROU-01-0021,Router,Juniper,1
+22,SER-01-0022,Server,Dell,1
+23,ACC-01-0023,Access Point,Cisco,1
+24,SER-01-0024,Server,HP,1
+25,SER-01-0025,Server,HP,1
+26,SER-01-0026,Server,Dell,1
+27,ROU-01-0027,Router,Cisco,1
+28,SWI-01-0028,Switch,HP Aruba,1
+29,ROU-01-0029,Router,Cisco,1
+30,ROU-01-0030,Router,Juniper,1
+31,FIR-01-0031,Firewall,Fortinet,1
+32,FIR-01-0032,Firewall,Palo Alto,1
+33,FIR-01-0033,Firewall,Fortinet,1
+34,SWI-01-0034,Switch,HP Aruba,1
+35,ROU-01-0035,Router,Cisco,1
+36,SER-01-0036,Server,Dell,1
+37,SWI-01-0037,Switch,HP Aruba,1
+38,ACC-01-0038,Access Point,HP Aruba,1
+39,SER-01-0039,Server,Dell,1
+40,FIR-01-0040,Firewall,Palo Alto,1
+41,SWI-01-0041,Switch,Cisco,1
+42,FIR-01-0042,Firewall,Fortinet,1
+43,FIR-01-0043,Firewall,Palo Alto,1
+44,SWI-01-0044,Switch,HP Aruba,1
+45,SWI-01-0045,Switch,HP Aruba,1
+46,ACC-02-0046,Access Point,Cisco,2
+47,FIR-02-0047,Firewall,Palo Alto,2
+48,SWI-02-0048,Switch,HP Aruba,2
+49,SER-02-0049,Server,HP,2
+50,SER-02-0050,Server,HP,2
+51,FIR-02-0051,Firewall,Palo Alto,2
+52,SWI-02-0052,Switch,HP Aruba,2
+53,ROU-02-0053,Router,Cisco,2
+54,ROU-02-0054,Router,Cisco,2
+55,SWI-02-0055,Switch,HP Aruba,2
+56,SER-02-0056,Server,Dell,2
+57,ACC-02-0057,Access Point,HP Aruba,2
+58,SER-02-0058,Server,HP,2
+59,SER-02-0059,Server,HP,2
+60,SER-02-0060,Server,Dell,2
+61,ROU-02-0061,Router,Juniper,2
+62,FIR-02-0062,Firewall,Palo Alto,2
+63,FIR-02-0063,Firewall,Fortinet,2
+64,SWI-02-0064,Switch,HP Aruba,2
+65,ROU-02-0065,Router,Juniper,2
+66,SER-02-0066,Server,Dell,2
+67,SER-02-0067,Server,Dell,2
+68,FIR-02-0068,Firewall,Palo Alto,2
+69,SWI-02-0069,Switch,HP Aruba,2
+70,SWI-02-0070,Switch,Cisco,2
+71,SER-02-0071,Server,HP,2
+72,ACC-02-0072,Access Point,Cisco,2
+73,ROU-02-0073,Router,Juniper,2
+74,FIR-02-0074,Firewall,Palo Alto,2
+75,ROU-02-0075,Router,Cisco,2
+76,SER-02-0076,Server,Dell,2
+77,ROU-02-0077,Router,Juniper,2
+78,ROU-02-0078,Router,Cisco,2
+79,SWI-02-0079,Switch,HP Aruba,2
+80,SER-02-0080,Server,Dell,2
+81,FIR-02-0081,Firewall,Fortinet,2
+82,SWI-02-0082,Switch,Cisco,2
+83,FIR-02-0083,Firewall,Fortinet,2
+84,FIR-02-0084,Firewall,Fortinet,2
+85,SER-02-0085,Server,HP,2
+86,ROU-02-0086,Router,Cisco,2
+87,ROU-03-0087,Router,Juniper,3
+88,ROU-03-0088,Router,Cisco,3
+89,SER-03-0089,Server,Dell,3
+90,ROU-03-0090,Router,Cisco,3
+91,ROU-03-0091,Router,Cisco,3
+92,ROU-03-0092,Router,Cisco,3
+93,FIR-03-0093,Firewall,Palo Alto,3
+94,SER-03-0094,Server,Dell,3
+95,FIR-03-0095,Firewall,Fortinet,3
+96,SWI-03-0096,Switch,Cisco,3
+97,SER-03-0097,Server,HP,3
+98,SWI-03-0098,Switch,HP Aruba,3
+99,ACC-03-0099,Access Point,Cisco,3
+100,ROU-03-0100,Router,Cisco,3
+101,ACC-03-0101,Access Point,HP Aruba,3
+102,ACC-03-0102,Access Point,HP Aruba,3
+103,ACC-03-0103,Access Point,Cisco,3
+104,ROU-03-0104,Router,Cisco,3
+105,ACC-03-0105,Access Point,HP Aruba,3
+106,ROU-03-0106,Router,Cisco,3
+107,SWI-03-0107,Switch,Cisco,3
+108,SER-03-0108,Server,HP,3
+109,SWI-03-0109,Switch,HP Aruba,3
+110,SWI-03-0110,Switch,HP Aruba,3
+111,ACC-03-0111,Access Point,Cisco,3
+112,ROU-03-0112,Router,Juniper,3
+113,SER-03-0113,Server,Dell,3
+114,ROU-03-0114,Router,Cisco,3
+115,ROU-03-0115,Router,Cisco,3
+116,SWI-03-0116,Switch,HP Aruba,3
+117,ACC-03-0117,Access Point,HP Aruba,3
+118,SWI-03-0118,Switch,HP Aruba,3
+119,ROU-03-0119,Router,Cisco,3
+120,ACC-03-0120,Access Point,Cisco,3
+121,ACC-03-0121,Access Point,HP Aruba,3
+122,ACC-03-0122,Access Point,HP Aruba,3
+123,ACC-03-0123,Access Point,HP Aruba,3
+124,SWI-03-0124,Switch,Cisco,3
+125,SWI-04-0125,Switch,Cisco,4
+126,SER-04-0126,Server,Dell,4
+127,FIR-04-0127,Firewall,Palo Alto,4
+128,ROU-04-0128,Router,Juniper,4
+129,SER-04-0129,Server,Dell,4
+130,ROU-04-0130,Router,Cisco,4
+131,SWI-04-0131,Switch,Cisco,4
+132,SER-04-0132,Server,Dell,4
+133,SWI-04-0133,Switch,HP Aruba,4
+134,ROU-04-0134,Router,Cisco,4
+135,SER-04-0135,Server,Dell,4
+136,SER-04-0136,Server,Dell,4
+137,ACC-04-0137,Access Point,HP Aruba,4
+138,FIR-04-0138,Firewall,Palo Alto,4
+139,FIR-04-0139,Firewall,Palo Alto,4
+140,FIR-04-0140,Firewall,Fortinet,4
+141,SWI-04-0141,Switch,HP Aruba,4
+142,ACC-04-0142,Access Point,HP Aruba,4
+143,ROU-04-0143,Router,Cisco,4
+144,ACC-04-0144,Access Point,Cisco,4
+145,ROU-04-0145,Router,Cisco,4
+146,SER-04-0146,Server,HP,4
+147,SWI-04-0147,Switch,HP Aruba,4
+148,ROU-04-0148,Router,Cisco,4
+149,FIR-04-0149,Firewall,Fortinet,4
+150,SWI-04-0150,Switch,HP Aruba,4
+151,SER-04-0151,Server,HP,4
+152,SER-04-0152,Server,Dell,4
+153,SER-04-0153,Server,HP,4
+154,ROU-04-0154,Router,Cisco,4
+155,FIR-04-0155,Firewall,Palo Alto,4
+156,ROU-04-0156,Router,Cisco,4
+157,FIR-04-0157,Firewall,Fortinet,4
+158,SER-04-0158,Server,Dell,4
+159,FIR-04-0159,Firewall,Palo Alto,4
+160,FIR-04-0160,Firewall,Fortinet,4
+161,FIR-04-0161,Firewall,Palo Alto,4
+162,ROU-04-0162,Router,Juniper,4
+163,FIR-04-0163,Firewall,Palo Alto,4
+164,FIR-05-0164,Firewall,Palo Alto,5
+165,FIR-05-0165,Firewall,Palo Alto,5
+166,ACC-05-0166,Access Point,HP Aruba,5
+167,SER-05-0167,Server,Dell,5
+168,ROU-05-0168,Router,Cisco,5
+169,SWI-05-0169,Switch,Cisco,5
+170,FIR-05-0170,Firewall,Palo Alto,5
+171,ACC-05-0171,Access Point,Cisco,5
+172,ROU-05-0172,Router,Juniper,5
+173,FIR-05-0173,Firewall,Palo Alto,5
+174,FIR-05-0174,Firewall,Palo Alto,5
+175,SWI-05-0175,Switch,Cisco,5
+176,FIR-05-0176,Firewall,Fortinet,5
+177,SER-05-0177,Server,Dell,5
+178,SWI-05-0178,Switch,Cisco,5
+179,SWI-05-0179,Switch,HP Aruba,5
+180,ROU-05-0180,Router,Cisco,5
+181,FIR-05-0181,Firewall,Fortinet,5
+182,SWI-05-0182,Switch,HP Aruba,5
+183,SWI-05-0183,Switch,Cisco,5
+184,ACC-05-0184,Access Point,Cisco,5
+185,ACC-05-0185,Access Point,Cisco,5
+186,SWI-05-0186,Switch,HP Aruba,5
+187,FIR-05-0187,Firewall,Fortinet,5
+188,SWI-05-0188,Switch,Cisco,5
+189,ROU-05-0189,Router,Cisco,5
+190,ACC-05-0190,Access Point,HP Aruba,5
+191,FIR-05-0191,Firewall,Palo Alto,5
+192,FIR-05-0192,Firewall,Fortinet,5
+193,SER-05-0193,Server,HP,5
+194,SER-05-0194,Server,HP,5
+195,ROU-05-0195,Router,Cisco,5
+196,FIR-05-0196,Firewall,Palo Alto,5
+197,SER-05-0197,Server,HP,5
+198,ROU-05-0198,Router,Cisco,5
+199,ACC-06-0199,Access Point,HP Aruba,6
+200,FIR-06-0200,Firewall,Fortinet,6
+201,SER-06-0201,Server,Dell,6
+202,ACC-06-0202,Access Point,Cisco,6
+203,FIR-06-0203,Firewall,Palo Alto,6
+204,ACC-06-0204,Access Point,Cisco,6
+205,SER-06-0205,Server,Dell,6
+206,FIR-06-0206,Firewall,Fortinet,6
+207,ROU-06-0207,Router,Juniper,6
+208,SER-06-0208,Server,HP,6
+209,ROU-06-0209,Router,Juniper,6
+210,SER-06-0210,Server,HP,6
+211,ACC-06-0211,Access Point,HP Aruba,6
+212,ACC-06-0212,Access Point,HP Aruba,6
+213,SER-06-0213,Server,Dell,6
+214,SWI-06-0214,Switch,HP Aruba,6
+215,ACC-06-0215,Access Point,Cisco,6
+216,SER-06-0216,Server,HP,6
+217,ACC-06-0217,Access Point,Cisco,6
+218,FIR-06-0218,Firewall,Fortinet,6
+219,SWI-06-0219,Switch,HP Aruba,6
+220,SER-06-0220,Server,HP,6
+221,ACC-06-0221,Access Point,HP Aruba,6
+222,ACC-06-0222,Access Point,Cisco,6
+223,SER-06-0223,Server,HP,6
+224,SWI-06-0224,Switch,Cisco,6
+225,FIR-06-0225,Firewall,Fortinet,6
+226,ROU-06-0226,Router,Cisco,6
+227,FIR-06-0227,Firewall,Palo Alto,6
+228,SWI-06-0228,Switch,Cisco,6
+229,ROU-06-0229,Router,Cisco,6
+230,SWI-06-0230,Switch,HP Aruba,6
+231,SER-06-0231,Server,Dell,6
+232,ACC-06-0232,Access Point,HP Aruba,6
+233,SER-06-0233,Server,Dell,6
+234,ACC-06-0234,Access Point,HP Aruba,6
+235,ACC-06-0235,Access Point,Cisco,6
+236,SWI-06-0236,Switch,Cisco,6
+237,ROU-06-0237,Router,Juniper,6
+238,SWI-06-0238,Switch,Cisco,6
+239,SER-06-0239,Server,HP,6
+240,ROU-06-0240,Router,Cisco,6
+241,ROU-06-0241,Router,Juniper,6
+242,SWI-06-0242,Switch,HP Aruba,6
+243,SER-07-0243,Server,HP,7
+244,ACC-07-0244,Access Point,HP Aruba,7
+245,SER-07-0245,Server,HP,7
+246,SWI-07-0246,Switch,HP Aruba,7
+247,ACC-07-0247,Access Point,HP Aruba,7
+248,SWI-07-0248,Switch,HP Aruba,7
+249,SER-07-0249,Server,HP,7
+250,SWI-07-0250,Switch,HP Aruba,7
+251,ACC-07-0251,Access Point,Cisco,7
+252,FIR-07-0252,Firewall,Palo Alto,7
+253,FIR-07-0253,Firewall,Fortinet,7
+254,FIR-07-0254,Firewall,Palo Alto,7
+255,SWI-07-0255,Switch,Cisco,7
+256,SWI-07-0256,Switch,HP Aruba,7
+257,SWI-07-0257,Switch,Cisco,7
+258,ROU-07-0258,Router,Juniper,7
+259,ACC-07-0259,Access Point,HP Aruba,7
+260,SER-07-0260,Server,HP,7
+261,ACC-07-0261,Access Point,Cisco,7
+262,SWI-07-0262,Switch,HP Aruba,7
+263,ACC-07-0263,Access Point,Cisco,7
+264,SER-07-0264,Server,HP,7
+265,ACC-07-0265,Access Point,Cisco,7
+266,FIR-07-0266,Firewall,Fortinet,7
+267,ACC-07-0267,Access Point,HP Aruba,7
+268,SER-07-0268,Server,Dell,7
+269,ACC-07-0269,Access Point,Cisco,7
+270,FIR-07-0270,Firewall,Fortinet,7
+271,ACC-07-0271,Access Point,Cisco,7
+272,ACC-07-0272,Access Point,HP Aruba,7
+273,ACC-07-0273,Access Point,Cisco,7
+274,ACC-07-0274,Access Point,Cisco,7
+275,SER-07-0275,Server,Dell,7
+276,ACC-07-0276,Access Point,Cisco,7
+277,ROU-07-0277,Router,Juniper,7
+278,SWI-07-0278,Switch,HP Aruba,7
+279,SWI-07-0279,Switch,Cisco,7
+280,FIR-07-0280,Firewall,Fortinet,7
+281,FIR-07-0281,Firewall,Palo Alto,7
+282,ACC-07-0282,Access Point,HP Aruba,7
+283,FIR-07-0283,Firewall,Fortinet,7
+284,FIR-07-0284,Firewall,Fortinet,7
+285,FIR-07-0285,Firewall,Palo Alto,7
+286,ACC-07-0286,Access Point,Cisco,7
+287,SER-07-0287,Server,Dell,7
+288,SWI-08-0288,Switch,Cisco,8
+289,ROU-08-0289,Router,Cisco,8
+290,SWI-08-0290,Switch,Cisco,8
+291,ROU-08-0291,Router,Cisco,8
+292,SWI-08-0292,Switch,Cisco,8
+293,ACC-08-0293,Access Point,Cisco,8
+294,SER-08-0294,Server,Dell,8
+295,ACC-08-0295,Access Point,HP Aruba,8
+296,FIR-08-0296,Firewall,Palo Alto,8
+297,SER-08-0297,Server,Dell,8
+298,SWI-08-0298,Switch,HP Aruba,8
+299,ROU-08-0299,Router,Cisco,8
+300,FIR-08-0300,Firewall,Fortinet,8
+301,ACC-08-0301,Access Point,Cisco,8
+302,ROU-08-0302,Router,Cisco,8
+303,ROU-08-0303,Router,Juniper,8
+304,SER-08-0304,Server,Dell,8
+305,SER-08-0305,Server,Dell,8
+306,FIR-08-0306,Firewall,Fortinet,8
+307,FIR-08-0307,Firewall,Palo Alto,8
+308,SER-08-0308,Server,HP,8
+309,ROU-08-0309,Router,Juniper,8
+310,ACC-08-0310,Access Point,Cisco,8
+311,ACC-08-0311,Access Point,HP Aruba,8
+312,ACC-08-0312,Access Point,Cisco,8
+313,ACC-08-0313,Access Point,Cisco,8
+314,SER-08-0314,Server,HP,8
+315,SER-08-0315,Server,HP,8
+316,ACC-08-0316,Access Point,HP Aruba,8
+317,SER-08-0317,Server,HP,8
+318,FIR-08-0318,Firewall,Palo Alto,8
+319,ROU-08-0319,Router,Juniper,8
+320,ACC-08-0320,Access Point,Cisco,8
+321,ACC-08-0321,Access Point,HP Aruba,8
+322,FIR-08-0322,Firewall,Palo Alto,8
+323,ACC-08-0323,Access Point,HP Aruba,8
+324,SWI-08-0324,Switch,HP Aruba,8
+325,SWI-08-0325,Switch,HP Aruba,8
+326,FIR-08-0326,Firewall,Fortinet,8
+327,FIR-08-0327,Firewall,Fortinet,8
